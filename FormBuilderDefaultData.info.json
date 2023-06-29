@@ -1,0 +1,8 @@
+{
+	"title": "Form Builder Default Data",
+	"summary": "Set default data for newly created Form Builder forms.",
+	"author": "Teppo Koivula",
+	"autoload": true,
+	"icon": "cogs",
+	"version": "0.0.1"
+}

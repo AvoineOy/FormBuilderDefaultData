@@ -1,0 +1,8 @@
+{
+    "name": "avoineoy/form-builder-default-data",
+    "type": "pw-module",
+    "description": "Set default data for newly created Form Builder forms.",
+    "require": {
+        "wireframe-framework/processwire-composer-installer": "^1.0.0"
+    }
+}
